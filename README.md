@@ -1,0 +1,2 @@
+# rsbot
+RetroScream Official Bot
